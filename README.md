@@ -6,7 +6,7 @@ note: doesnt work on spark 2.4
 
 1.  Download spark 2.3 from the below link extract to C:/spark-2.3.3-bin-hadoop2.7 
 
-    add environmens
+    add environments
 
     SPARK_HOME=C:/spark-2.3.3-bin-hadoop2.7 and
     
