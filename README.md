@@ -18,7 +18,7 @@ note: doesnt work on spark 2.4
 
     JAVA_HOME=C:\java
       
-3.  copy winutils to c:\bin  
+3.  copy winutils to c:\bin   //winutils avoid hadoop related errors
 
     set HADOOP_HOME=c:\
     
