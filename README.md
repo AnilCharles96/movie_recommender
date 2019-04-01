@@ -3,3 +3,4 @@ provides movie recommendation based on user ratings written in pyspark and qt fo
 
 # work in progress
 
+<img src = http://recordit.co/hkquKH4I2r>
