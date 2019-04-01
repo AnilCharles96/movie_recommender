@@ -20,6 +20,12 @@ note: doesnt work on spark 2.4
 
 4.  pip install pyside2
     pip install pyspark
+    
+![Capture4](https://user-images.githubusercontent.com/43022435/55351667-8e647f80-54dc-11e9-917b-7fdb90ef955b.PNG)
+![Capture](https://user-images.githubusercontent.com/43022435/55351669-8e647f80-54dc-11e9-8d9d-49a3ffb67107.PNG)
+![Capture1](https://user-images.githubusercontent.com/43022435/55351670-8efd1600-54dc-11e9-9c1f-c0a45d7876e9.PNG)
+![Capture3](https://user-images.githubusercontent.com/43022435/55351671-8efd1600-54dc-11e9-8c96-be258445a93a.PNG)
+
 
 
 # work in progress
