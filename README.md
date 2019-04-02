@@ -25,6 +25,7 @@ note: doesnt work on spark 2.4
     https://github.com/steveloughran/winutils/blob/master/hadoop-2.7.1/bin/winutils.exe
 
 4.  pip install pyside2
+
     pip install pyspark
     
 ![Capture4](https://user-images.githubusercontent.com/43022435/55351667-8e647f80-54dc-11e9-917b-7fdb90ef955b.PNG)
