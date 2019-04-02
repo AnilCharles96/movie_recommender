@@ -35,7 +35,7 @@ note: doesnt work on spark 2.4
 
 
 
-# work in progress
+# Working 
 Run qt.py and follow the gif
 ![](record.gif)
 
